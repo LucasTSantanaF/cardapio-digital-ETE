@@ -36,7 +36,7 @@
     @yield('content')
     <br><br><br><br><br>
     <div class="container-fluid"> 
-        <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top"> 
+        <footer class="d-flex fixed-bottom flex-wrap justify-content-between align-items-center py-3 my-4 border-top"> 
             <div class="col-md-4 ms-3 mb-0 d-flex align-items-center"> 
                 <span class="mb-0 mb-md-0 text-body-secondary">© 2026 Cardapio, Lucas Tenório</span> 
             </div> 
